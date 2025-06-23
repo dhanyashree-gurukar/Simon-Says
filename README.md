@@ -21,11 +21,9 @@ This is a fun and interactive Simon Says memory game built using HTML, CSS, and 
 -JavaScript (app.js) – to handle game logic and interactivity
 
 ## 📁 Project Structure
-
+```
 .
 ├── index.html       # Main game UI
-
 ├── style.css        # Styles for the buttons and layout
-
 └── app.js           # JavaScript logic for gameplay
-
+```
